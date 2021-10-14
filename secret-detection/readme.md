@@ -1,4 +1,4 @@
-# [awesome-secret-detection](https://github.com/arainho/awesome-secret-detection)
+# awesome-secret-detection
 
 **A collection of awesome Secret Detection solutions.**
 
