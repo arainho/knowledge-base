@@ -1,4 +1,4 @@
-# [awesome-sectools](https://github.com/arainho/awesome-sectools)
+# awesome-sectools
 
 **A collection of awesome security tools and resources.**
 
