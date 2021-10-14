@@ -1,4 +1,4 @@
-# [awesome-devtools](https://github.com/arainho/awesome-devtools)
+# awesome-devtools
 
 **A collection of awesome developer tools and resources.**
 
