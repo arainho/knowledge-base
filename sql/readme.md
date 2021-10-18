@@ -25,4 +25,6 @@ Website | Description
 | [learn-ssqlmapql](https://www.codecademy.com/learn/learn-sql) | CodeAcademy: Learn to communicate with databases using SQL, the standard data management language. |
 
 ## Resources aggregation
-| [SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) | PayloadsAllTheThings: SQL Injection
+Website | Description
+---- | ----
+| [SQL Injection](https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection) | PayloadsAllTheThings: SQL Injection |
