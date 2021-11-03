@@ -13,6 +13,7 @@ Repository | Description
 [truffleHog](https://github.com/dxa4481/truffleHog) | Searches through git repositories for high entropy strings and secrets, digging deep into commit history
 [gitrob](https://github.com/michenriksen/gitrob) | Reconnaissance tool for GitHub organizations 
 [shhgit](https://github.com/eth0izzle/shhgit/) | Shhgit finds secrets and sensitive files across GitHub code and Gists
+[git-secrets](https://github.com/awslabs/git-secrets) | Prevents you from committing secrets and credentials into git repositories 
 
 ## Vendors websites
 
