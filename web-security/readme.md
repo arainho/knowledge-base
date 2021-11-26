@@ -3,10 +3,15 @@
 **A collection of awesome Web Security tools and resources.**
 
 ## Awesome Repositories
-
 Repository | Description
 ---- | ----
 [awesome-web-security](https://github.com/qazbnm456/awesome-web-security)| A curated list of Web Security materials and resources. 
+
+## Cheatsheets
+Repository | Description
+---- | ----
+[Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)| riramar - Web Attack Cheat Sheet. 
+
 
 ## Tools
 Repository | Description
