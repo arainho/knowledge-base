@@ -20,6 +20,7 @@ Name | Description
 | [Netcat](https://www.sans.org/blog/sans-cheat-sheet-netcat)  | SANS Cheat Sheet: Netcat |
 | [Metasploit](https://www.sans.org/blog/sans-pen-test-cheat-sheet-metasploit) | SANS Pen Test Cheat Sheet: Metasploit |
 | [Reverse Shells](https://highon.coffee/blog/reverse-shell-cheat-sheet) | @Arr0way: Reverse Shell Cheat Sheet |
+| [LFI](https://highon.coffee/blog/lfi-cheat-sheet/) | @Arr0way: LFI Cheat Sheet |
 
 ## Wiki's
 Name | Description
