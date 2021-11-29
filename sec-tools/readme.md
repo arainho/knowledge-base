@@ -15,7 +15,7 @@ Name | Description
 | ---- | ----------- |
 | [Pentesting](https://ired.team/offensive-security-experiments/offensive-security-cheetsheets)  | Pentesting Cheatsheets Convenient commands for your pentesting / red-teaming engagements, OSCP and CTFs. |
 | [Awesome Pentest](https://github.com/coreb1t/awesome-pentest-cheat-sheets) | Pentest Cheatsheets 	Collection of the cheat sheets useful for pentesting |
-| [penetration-testing-tools](https://highon.coffee/blog/penetration-testing-tools-cheat-sheet/) | @Arr0way: Penetration Testing Tools Cheat Sheet |
+| [penetration-testing](https://highon.coffee/blog/cheat-sheet) | @Arr0way: Penetration Testing Cheat Sheets |
 | [Security](https://github.com/andrewjkerr/security-cheatsheets) | Collection of cheatsheets for various infosec tools and topics |
 | [Netcat](https://www.sans.org/blog/sans-cheat-sheet-netcat)  | SANS Cheat Sheet: Netcat |
 | [Metasploit](https://www.sans.org/blog/sans-pen-test-cheat-sheet-metasploit) | SANS Pen Test Cheat Sheet: Metasploit |
